@@ -1,0 +1,26 @@
+import javax.swing.*;
+import java.awt.*;
+
+class jtable extends JFrame
+{
+	jtable()
+	{
+
+	}
+
+
+}
+
+
+
+	public static void main(String args[])
+	{
+		jtable  jtb=new jtable ();
+		jtb.setVisible(true);
+		jtb.setSize(500,500);
+		jtb.setTitle("my jscrollpane");
+
+	}
+
+
+}
